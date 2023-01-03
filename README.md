@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoWillian7&color=blue" alt="Profile views" /> </p>
 
 - 💻 Computer Science student at IF Goiano - Campus Morrinhos
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and Node.js.
 - 🤔 How to reach me: Just send me a email at Gustavowillian0777@gmail.com
 
 <br><br>
