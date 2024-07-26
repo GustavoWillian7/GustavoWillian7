@@ -1,4 +1,4 @@
-<h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Willian</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Willian</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoWillian7&color=blue" alt="Profile views" /> </p>
 
 - 💻 Estudante de Ciência da Computação no IF Goiano - Campus Morrinhos
