@@ -1,18 +1,21 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Willian</h1>
+<h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Willian</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoWillian7&color=blue" alt="Profile views" /> </p>
 
-- 💻 Computer Science student at IF Goiano - Campus Morrinhos
-- 🌱 I’m currently learning JavaScript and Node.js.
-- 🤔 How to reach me: Just send me a email at Gustavowillian0777@gmail.com
+- 💻 Estudante de Ciência da Computação no IF Goiano - Campus Morrinhos
+- 🌱 Atualmente estou focando meus estudos em JavaScript e Node.js.
+- 🤔 Quer entrar em contato comigo? Me envie uma mensagem no email: Gustavowillian0777@gmail.com
 
 <br><br>
 
-## 🛠 &nbsp;Learning Tech Stack
+## 🛠 &nbsp;Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
+)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 <br><br>
