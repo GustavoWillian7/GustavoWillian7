@@ -6,22 +6,25 @@
 ### Sobre mim
 - 🎓 Estudante do 8º período no curso Ciência da Computação no Instituto Federal Goiano - Campus Morrinhos
 - 🔍 Focado em JavaScript e Node.js para desenvolvimento backend
+- 🌐 Confira meu portfólio: https://portfolio-roan-omega-n3sv1b6jhn.vercel.app/
 - ✉️ Me envie uma mensagem: <a href="mailto:Gustavowillian0777@gmail.com" target="_blank" style="text-decoration:none">Gustavowillian0777@gmail.com</a> | 📱 <a href="https://wa.me/5564984344807" target="_blank" style="text-decoration:none">WhatsApp</a>
 
 ---
 
 ### 🛠 &nbsp;Tech Stack
 
-<div style="display: flex; justify-content: space-evenly;">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>&nbsp;
+<div style="margin-bottom: 8px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
-<br>
-<div style="display: flex; justify-content: space-evenly;">
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>&nbsp;
+
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 ---
