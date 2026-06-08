@@ -4,7 +4,7 @@
 ---
 
 ### Sobre mim
-- 🎓 Estudante do 8º período no curso Ciência da Computação no Instituto Federal Goiano - Campus Morrinhos
+- 🎓 Bacharel em Ciência da Computação pelo Instituto Federal Goiano - Campus Morrinhos
 - 🔍 Focado em JavaScript e Node.js para desenvolvimento backend
 - 🌐 Confira meu portfólio: https://portfolio-roan-omega-n3sv1b6jhn.vercel.app/
 - ✉️ Me envie uma mensagem: <a href="mailto:Gustavowillian0777@gmail.com" target="_blank" style="text-decoration:none">Gustavowillian0777@gmail.com</a> | 📱 <a href="https://wa.me/5564984344807" target="_blank" style="text-decoration:none">WhatsApp</a>
